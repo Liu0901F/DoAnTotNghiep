@@ -1,0 +1,15 @@
+# Cấu hình IDE / OS
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# File log hoặc rác sinh ra trong quá trình chạy
+*.log
+scratch/
+migration.php
